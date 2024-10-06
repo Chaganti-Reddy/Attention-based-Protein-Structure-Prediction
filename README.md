@@ -1,6 +1,6 @@
 # Attention Based Protein Structure Prediction
 <img align="center" alt="architecture" src="./assets/intro.gif" style="background-color:white"/><br>
-
+ 
 # Introduction
 Proteins are essential to life, and understanding their structure can facilitate a mechanistic understanding of their function. Through an enormous experimental effort, the structures of around 100,000 unique proteins have been determined5, but this represents a small fraction of the billions of known protein sequences. Each one has a unique 3D shape that determines how it works and what it does.
 
